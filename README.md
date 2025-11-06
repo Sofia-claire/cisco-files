@@ -71,8 +71,8 @@ git push origin feature/add-pkt-files
 
 👨‍💻 Автор
 
-· GitHub: Sofia-claire
-· Email: sofiaulivanova@gmail.com
+- GitHub: Sofia-claire
+- Email: sofiaulivanova@gmail.com
 
 ---
 
